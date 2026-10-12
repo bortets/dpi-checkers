@@ -1,7 +1,7 @@
 const TEST_SUITE = [
   { "name": "EdgeCenter", "asns": ["201589", "207059", "210756"] },
   { "name": "Reg.ru", "asns": ["197695"] },
-  { "name": "CDNVideo / GPUCloud", "asns": ["204720"] },
+  { "name": "CDNVideo / GPUCloud / Cloud4Y", "asns": ["204720", "57363"] }, 
   { "name": "RuFox", "asns": ["25490"] },
   { "name": "EuroByte / MCHost", "asns": ["210079"] },
   { "name": "Contell", "asns": ["204490"] },
