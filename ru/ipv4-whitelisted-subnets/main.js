@@ -26,6 +26,8 @@ const TEST_SUITE = [
   { "name": "1hs.ru", "asns": ["199860"] },
   { "name": "Infobox", "asns": ["41535"] },
   { "name": "Radisol", "asns": ["41722"] },
+  { "name": "BIGD", "asns": ["48347"] },
+  { "name": "WELLSERVER", "asns": ["56864"] },
 ];
 
 let TIMEOUT_MS = 5000;
